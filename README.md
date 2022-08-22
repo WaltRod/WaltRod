@@ -7,7 +7,7 @@
   Atualmente estou familiarizado com HTML5, CSS e JS. Pretendo continuar os estudos seguindo para Bootstrap e JQuery.
   
  Estou procurando meu primeiro emprego na área.
- Para qualquer duvida(ou se quiser bater um papo xD) segue minhas redes sociais para contato!
+ Para qualquer duvida(ou se quiser bater um papo xD) segue minha rede social para contato!
   
 https://www.linkedin.com/in/walter-emanuel-b42a4117b/
 <br>
