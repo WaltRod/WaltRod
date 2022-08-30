@@ -3,7 +3,7 @@
   
  Ola, me chamo Walter Emanuel Rodrigues.
   
- Comecei na área de desenvolvimento e programção a alguns mêses via cursos da Udemy, pretendo me especializar na área o mais rapido possivel!
+ Comecei na área de desenvolvimento e programação a alguns mêses via cursos da Udemy, pretendo me especializar na área o mais rapido possivel!
   Atualmente estou familiarizado com HTML5, CSS e JS. Pretendo continuar os estudos seguindo para Bootstrap e React.
   
  Estou procurando meu primeiro emprego na área.
