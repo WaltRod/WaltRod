@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
 <img src ="https://skillicons.dev/icons?i=nodejs" alt="nodejs" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git" height="60" style="vertical-align:top; margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/tailwind.svg" alt="Tailwind" height="60" style="vertical-align:top; margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/sass.svg" alt="Sass" height="60" style="vertical-align:top; margin:4px"> 
 </div>
   
 <div align="center"> 
