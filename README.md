@@ -16,15 +16,20 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaltRod&layout=compact&langs_count=7&theme=synthwave"/>
    
 </div>
-<div align="center" style="display: inline_block"><br>
+
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=HTML,CSS,JavaScript,nodejs,VScode,GIT,tailwind,sass" />
+  </a>
+</p>
+ 
+ <div align="center" style="display: inline_block"><br>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="Javascript" height="60" style="vertical-align:top; margin:4px">
 <img src ="https://skillicons.dev/icons?i=nodejs" alt="nodejs" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VS Code" height="60" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git" height="60" style="vertical-align:top; margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/tailwind.svg" alt="Tailwind" height="60" style="vertical-align:top; margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/sass.svg" alt="Sass" height="60" style="vertical-align:top; margin:4px"> 
 </div>
   
 <div align="center"> 
